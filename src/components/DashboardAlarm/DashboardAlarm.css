@@ -1,0 +1,114 @@
+/*
+ * DashboardAlarm css File
+*/
+/* 
+.DashboardAlarm {
+    
+} */
+.alarm-box{
+    text-align: left;
+    height: 50px;
+    background:#ffffff;
+    display: grid;
+    grid-template-columns: 1fr .5fr;
+    line-height: 3;
+    padding: 0px 10px;
+}
+.search-boxes{
+    /* width: 150px !important; */
+    height: 20px;
+    padding: 5px;
+    background-color: #c7cac6;
+    font-size: 12px;
+    border: 1px solid #c7cac6;
+}
+.btn-box{
+    display: grid;
+    grid-template-columns: 1fr 0.5fr;
+    grid-column-gap:10px;
+    padding: 10px 0px;
+}
+
+.MuiButton-containedPrimary{
+    width: 100px;
+}
+.details{
+    height: calc(100vh - 280px);
+}
+.details-title{
+    display: grid;
+    grid-template-columns: repeat(7,1fr);
+    height: 40px;
+    font-size: 11px;
+    font-weight: 500;
+    line-height: 3.5;
+    text-align: left;
+    padding-left: 20px;
+}
+
+.details-row{
+    height: calc(100vh - 366px);
+    background: #fff;
+
+}
+.details-content{
+    display: grid;
+    grid-template-columns: repeat(7,1fr);
+    height: 40px;
+    border-bottom: 1px solid #c7cac6;
+    padding: 1px 10px;
+    text-align: left;
+    font-size: 11px;
+    font-weight: 500;
+}
+.alarmtype{
+    width: 75px;
+    border: 1px solid #c7cac6;
+    height: 25px;
+    line-height: 2;
+    text-align: center;
+    background-color: #FCC9C2;
+    color:red;
+    font-weight: 500;
+}
+.major{
+    width: 75px;
+    border: 1px solid #c7cac6;
+    height: 25px;
+    line-height: 2;
+    text-align: center;
+    background-color: #FCC9C2;
+    color:#FB9317;
+    font-weight: 500;
+}
+.content-value{
+    padding: 5px 10px;
+    line-height:3;
+}
+.pagenumber{
+    padding-top: 5px;
+    line-height: 2;
+    height: 40px;
+    background-color:#ffffff;
+}
+.value-box{
+    display: flex;
+    flex-direction: row;
+}
+
+@media screen and (max-width: 1024px) and (min-width: 908px) {
+    .details-row{
+        height: auto;
+    }
+}
+@media screen and (max-width: 907px) and (min-width: 769px) {
+    .details-row{
+        height:auto;
+    }
+
+}
+@media screen and (max-width: 768px) and (min-width: 560px){
+    .details-row{
+        height: auto;
+    }
+}

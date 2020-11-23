@@ -1,0 +1,130 @@
+{
+    "data" : [
+        {
+            "alarmid":"AI-1",
+            "dateandtime":"20June,10:05 AM",
+            "generatorid":"G-1",
+            "parameter":"Fuel level",
+            "value":"125%",
+            "alarmtype":"Critical",
+            "manualType":"Active"
+        },
+        {
+            "alarmid":"AI-1",
+            "dateandtime":"20June,10:05 AM",
+            "generatorid":"G-2",
+            "parameter":"Engine Speed",
+            "value":"125%",
+            "alarmtype":"Major",
+            "manualType":"Cleared"
+        },
+        {
+            "alarmid":"AI-1",
+            "dateandtime":"20June,10:05 AM",
+            "generatorid":"G-3",
+            "parameter":"Oil Pressure",
+            "value":"125%",
+            "alarmtype":"Major",
+            "manualType":"Active"
+        }
+        , {
+            "alarmid":"AI-1",
+            "dateandtime":"20June,10:05 AM",
+            "generatorid":"G-1",
+            "parameter":"Fuel level",
+            "value":"125%",
+            "alarmtype":"Critical",
+            "manualType":"Active"
+        },
+        {
+            "alarmid":"AI-1",
+            "dateandtime":"20June,10:05 AM",
+            "generatorid":"G-2",
+            "parameter":"Engine Speed",
+            "value":"125%",
+            "alarmtype":"Major",
+            "manualType":"Cleared"
+        }
+        , {
+            "alarmid":"AI-1",
+            "dateandtime":"20June,10:05 AM",
+            "generatorid":"G-3",
+            "parameter":"Oil Pressure",
+            "value":"125%",
+            "alarmtype":"Major",
+            "manualType":"Active"
+        }
+        , {
+            "alarmid":"AI-1",
+            "dateandtime":"20June,10:05 AM",
+            "generatorid":"G-1",
+            "parameter":"Fuel level",
+            "value":"125%",
+            "alarmtype":"Major",
+            "manualType":"Active"
+        },
+        {
+            "alarmid":"AI-1",
+            "dateandtime":"20June,10:05 AM",
+            "generatorid":"G-1",
+            "parameter":"Fuel level",
+            "value":"125%",
+            "alarmtype":"Major",
+            "manualType":"Active"
+        },
+        {
+            "alarmid":"AI-1",
+            "dateandtime":"20June,10:05 AM",
+            "generatorid":"G-1",
+            "parameter":"Fuel level",
+            "value":"125%",
+            "alarmtype":"Major",
+            "manualType":"Active"
+        },
+        {
+            "alarmid":"AI-1",
+            "dateandtime":"20June,10:05 AM",
+            "generatorid":"G-1",
+            "parameter":"Fuel level",
+            "value":"125%",
+            "alarmtype":"Major",
+            "manualType":"Active"
+        },
+        {
+            "alarmid":"AI-1",
+            "dateandtime":"20June,10:05 AM",
+            "generatorid":"G-1",
+            "parameter":"Fuel level",
+            "value":"125%",
+            "alarmtype":"Major",
+            "manualType":"Active"
+        },
+        {
+            "alarmid":"AI-1",
+            "dateandtime":"20June,10:05 AM",
+            "generatorid":"G-1",
+            "parameter":"Fuel level",
+            "value":"125%",
+            "alarmtype":"Major",
+            "manualType":"Active"
+        },
+        {
+            "alarmid":"AI-1",
+            "dateandtime":"20June,10:05 AM",
+            "generatorid":"G-1",
+            "parameter":"Fuel level",
+            "value":"125%",
+            "alarmtype":"Major",
+            "manualType":"Active"
+        },
+        {
+            "alarmid":"AI-1",
+            "dateandtime":"20June,10:05 AM",
+            "generatorid":"G-1",
+            "parameter":"Fuel level",
+            "value":"125%",
+            "alarmtype":"Major",
+            "manualType":"Active"
+        }
+    ]
+}
